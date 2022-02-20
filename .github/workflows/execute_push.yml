@@ -28,10 +28,11 @@ jobs:
         ls -1 ./python
     - name: Execute Python
       run: |
+        rm -rf ./api/
         ls -1 ./python > ./api/api_list.txt
         while read line
         do
-          echo $(python3 "./python/$line") > "./api/${line%.*}.txt"
+          python3 "./python/$line" > "./api/${line%.*}.txt"
         done < ./api/api_list.txt
     - name: Push to API
       run: |
