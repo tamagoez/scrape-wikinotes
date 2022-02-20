@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import time
 
 xmlraw = requests.get('https://vividarmy-wikinotes.vercel.app/sitemap.xml')
 # print(xmlraw.text)
@@ -19,3 +20,4 @@ for x in findsoup:
   else:
     print('no tag')
   print()
+  time.sleep(1)
