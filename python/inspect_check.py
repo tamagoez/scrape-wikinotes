@@ -10,7 +10,7 @@ xmlsoup = BeautifulSoup(xmlraw.text, "xml")
 findsoup = xmlsoup.find_all('loc')
 lens = len(findsoup)
 for item in findsoup:
-  time.sleep(random.uniform((3600 / lens / 3), (3600 / lens)))
+  time.sleep(random.uniform((3600 / lens / 4), (3600 / lens / 2)))
   print(item.text)
   response = requests.get('https://www.google.com/search?q=' + item.text + '&ie=UTF-8&num=100')
   soup = BeautifulSoup(response.text, 'html.parser')
@@ -20,7 +20,7 @@ for item in findsoup:
   for item in h3:
     # scrape = item[0].split('>')[1].split('</title')[0]
     title = item.text
-    print(title)
+    # print(title)
     # https://note.nkmk.me/python-str-search/
     # print('WikiNotes' in title)
     # https://note.nkmk.me/python-random-randrange-randint/
@@ -28,4 +28,4 @@ for item in findsoup:
         print(num)
     else:
         num += 1
-        print('Failed')
+        # print('Failed')
