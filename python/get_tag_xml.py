@@ -23,6 +23,6 @@ for x in findsoup:
       print('   <tag>' + n + '</tag>')
   else:
     print('   <tag></tag>')
-  print( </data>)
+  print(' </data>')
   time.sleep(1)
 print('</result>')
