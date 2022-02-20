@@ -4,6 +4,7 @@
 name: inspect_check.py
 
 on:
+  push:
   schedule:
     - cron: '0 * * * *'
 
