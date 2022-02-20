@@ -22,12 +22,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install bs4
         pip install requests
+        pip install lxml
     - name: Execute top_rank.py
       run: |
         echo $(ls -1 ./python/) > ./api/api_list.txt
         while read line
         do
-          echo $(python3 ./python/$line) > ./api/${line%.*}
+          echo $(python3 ./python/$line) > ./api/${line%.*}.txt
         done < ./api/api_list.txt
     - name: Push to API
       run: |
