@@ -39,4 +39,5 @@ jobs:
         git add -A
         git diff --exit-code
         echo $?
+        git commit -m "Push result to API"
         git push
