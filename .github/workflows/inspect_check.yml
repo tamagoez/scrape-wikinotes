@@ -32,10 +32,5 @@ jobs:
         git add -A
         git diff --exit-code
         echo $?
-        if [ $? -eq 1 ]; then
-          echo 'Some files are different'
-          git commit -m "Push result to API"
-          git push
-        else
-          echo 'Nothing to push'
-        fi
+        git commit -m "Push result to API"
+        git push
