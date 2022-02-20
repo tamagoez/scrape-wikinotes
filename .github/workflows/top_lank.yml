@@ -22,7 +22,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install bs4
         pip install requests
-    - name: Push top_lank.py
+    - name: Execute top_lank.py
       run: |
         echo $(python3 ./python/top_lank.py) > ./api/top_lank.txt
-        git push -u origin main
+    - name: Push to API
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add -A
+        git commit -m "Push result to API"
+        git push
