@@ -28,7 +28,7 @@ jobs:
         ls -1 ./python
     - name: Execute python
       run: |
-        echo $(ls -1 ./python) > ./api/api_list.txt
+        ls -1 ./python > ./api/api_list.txt
         while read line
         do
           linecut=$(echo $line | tr -d ".py")
