@@ -32,9 +32,10 @@ jobs:
         do
           python3 "./python/$line" > "./api/${line%.*}.txt"
         done < ./api_list.txt
-    - name: Push to API
+    - name: Comapre and Push to API
       run: |
         git diff
+        echo $?
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add -A
