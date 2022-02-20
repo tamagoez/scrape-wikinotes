@@ -23,5 +23,5 @@ jobs:
         pip install bs4
     - name: Push top_lank.py
       run: |
-        ${python3 ./python/top_lank.py} > ./api/top_lank.txt
+        echo $(python3 ./python/top_lank.py) > ./api/top_lank.txt
         git push -u origin main
