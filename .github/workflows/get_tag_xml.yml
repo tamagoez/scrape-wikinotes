@@ -34,7 +34,7 @@ jobs:
         git commit -m "Push get_tag.xml to API"
         git diff --exit-code
         echo $?
-        if [ $? -eq 1 ]; then
+        if [[[ -z $(git status -s) ]] -eq 1]; then
           echo 'Some files are different'
           git push
         else
