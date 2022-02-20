@@ -24,7 +24,11 @@ jobs:
         pip install requests
     - name: Execute top_rank.py
       run: |
-        echo $(python3 ./python/top_rank.py) > ./api/top_rank.txt
+        echo $(ls -1 ./python/) > ./api/api_list.txt
+        while read line
+        do
+          echo $(python3 ./python/$list) > ./api/${list%.*}
+        done < ./api/api_list.txt
     - name: Push to API
       run: |
         git config --global user.name "github-actions[bot]"
