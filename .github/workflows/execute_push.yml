@@ -25,10 +25,10 @@ jobs:
         pip install lxml
     - name: Execute top_rank.py
       run: |
-        echo $(ls -1 ./python/) > ./api/api_list.txt
+        echo $(ls -1 ./python) > ./api/api_list.txt
         while read line
         do
-          linecut=$(echo $line | tr -d '.py')
+          linecut=$(echo $line | tr -d .py)
           echo $(python3 ./python/$line) > ./api/${linecut}.txt
         done < ./api/api_list.txt
     - name: Push to API
