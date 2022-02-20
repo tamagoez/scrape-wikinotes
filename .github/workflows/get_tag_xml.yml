@@ -33,7 +33,7 @@ jobs:
         git add -N .
         git add -A
         git commit -m "Push get_tag.xml to API"
-        git diff --exit-code
+        git diff . --exit-code
         echo $?
         if [ $(test -z "$(git status -s)") -eq 1 ]; then
           echo 'Some files are different'
