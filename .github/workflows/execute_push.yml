@@ -34,7 +34,7 @@ jobs:
         done < ./api_list.txt
     - name: Comapre and Push to API
       run: |
-        git diff –exit-code
+        git diff --exit-code
         echo $?
         if [[ $? -eq 1 ]]; then
           git config --global user.name "github-actions[bot]"
