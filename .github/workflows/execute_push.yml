@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: top_lank.py
+name: Execute & Push
 
 on:
   push:
@@ -22,9 +22,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install bs4
         pip install requests
-    - name: Execute top_lank.py
+    - name: Execute top_rank.py
       run: |
-        echo $(python3 ./python/top_lank.py) > ./api/top_lank.txt
+        echo $(python3 ./python/top_rank.py) > ./api/top_rank.txt
     - name: Push to API
       run: |
         git config --global user.name "github-actions[bot]"
