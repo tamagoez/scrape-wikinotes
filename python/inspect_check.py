@@ -10,7 +10,7 @@ xmlsoup = BeautifulSoup(xmlraw.text, "xml")
 findsoup = xmlsoup.find_all('loc')
 lens = len(findsoup)
 for item in findsoup:
-  time.sleep(random.uniform((3600 / lens / 3), (3600 / lens))
+  time.sleep(random.uniform((3600 / lens / 3), (3600 / lens)))
   print(item.text)
   response = requests.get('https://www.google.com/search?q=' + item.text + '&ie=UTF-8&num=100')
   soup = BeautifulSoup(response.text, 'html.parser')
