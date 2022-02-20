@@ -28,12 +28,10 @@ jobs:
         ls -1 ./python
     - name: Execute Python
       run: |
-        rm -rf ./api/
-        ls -1 ./python > ./api/api_list.txt
         while read line
         do
           python3 "./python/$line" > "./api/${line%.*}.txt"
-        done < ./api/api_list.txt
+        done < ./api_list.txt
     - name: Push to API
       run: |
         git config --global user.name "github-actions[bot]"
