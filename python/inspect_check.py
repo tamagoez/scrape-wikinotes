@@ -22,7 +22,7 @@ for item in findsoup:
     # https://note.nkmk.me/python-str-search/
     # print('WikiNotes' in title)
     # https://note.nkmk.me/python-random-randrange-randint/
-    time.sleep(random.random.uniform(30, 90))
+    time.sleep(random.random.uniform(40, 120))
     if 'WikiNotes' in title:
         print(num)
     else:
