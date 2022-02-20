@@ -26,10 +26,17 @@ jobs:
     - name: Execute Python
       run: |
         python3 "./python/get_tag_xml.py" > "./api/get_tag.xml"
-    - name: Push to API
+    - name: Comapre and Push to API
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -A
-        git commit -m "Push result to API"
-        git push
+        git diff --exit-code
+        echo $?
+        if [ $? -eq 1 ]; then
+          echo 'Some files are different'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Push result to API"
+          git push
+        else
+          echo 'Nothing to push'
+        fi
