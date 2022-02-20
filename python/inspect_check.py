@@ -8,7 +8,9 @@ xmlraw = requests.get('https://vividarmy-wikinotes.vercel.app/sitemap.xml')
 xmlsoup = BeautifulSoup(xmlraw.text, "xml")
 # print(xmlsoup)
 findsoup = xmlsoup.find_all('loc')
+lens = len(findsoup)
 for item in findsoup:
+  time.sleep(random.uniform((3600 / lens / 3), (3600 / lens))
   print(item.text)
   response = requests.get('https://www.google.com/search?q=' + item.text + '&ie=UTF-8&num=100')
   soup = BeautifulSoup(response.text, 'html.parser')
@@ -22,7 +24,6 @@ for item in findsoup:
     # https://note.nkmk.me/python-str-search/
     # print('WikiNotes' in title)
     # https://note.nkmk.me/python-random-randrange-randint/
-    time.sleep(random.random.uniform(40, 120))
     if 'WikiNotes' in title:
         print(num)
     else:
