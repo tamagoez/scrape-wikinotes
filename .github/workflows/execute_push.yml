@@ -31,8 +31,7 @@ jobs:
         ls -1 ./python > ./api/api_list.txt
         while read line
         do
-          linecut=$(echo $line | tr -d ".py")
-          echo $(python3 "./python/$line") > "./api/${linecut}.txt"
+          echo $(python3 "./python/$line") > "./api/${list%.*.txt"
         done < ./api/api_list.txt
     - name: Push to API
       run: |
