@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-print('<?xml version="1.0" encoding="UTF-8"?')
+print('<?xml version="1.0" encoding="UTF-8"?>')
 print('<result>')
 xmlraw = requests.get('https://vividarmy-wikinotes.vercel.app/sitemap.xml')
 # print(xmlraw.text)
