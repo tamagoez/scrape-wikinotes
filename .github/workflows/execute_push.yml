@@ -34,13 +34,13 @@ jobs:
         done < ./api_list.txt
     - name: Comapre and Push to API
       run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add -A
         git diff --exit-code
         echo $?
         if [ $? -eq 1 ]; then
           echo 'Some files are different'
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
           git commit -m "Push result to API"
           git push
         else
