@@ -23,7 +23,10 @@ jobs:
         pip install bs4
         pip install requests
         pip install lxml
-    - name: Execute top_rank.py
+    - name: ls
+      run: |
+        ls -1 ./python
+    - name: Execute python
       run: |
         echo $(ls -1 ./python) > ./api/api_list.txt
         while read line
