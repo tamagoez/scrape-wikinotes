@@ -27,7 +27,7 @@ jobs:
         echo $(ls -1 ./python/) > ./api/api_list.txt
         while read line
         do
-          echo $(python3 ./python/$list) > ./api/${list%.*}
+          echo $(python3 ./python/$line) > ./api/${line%.*}
         done < ./api/api_list.txt
     - name: Push to API
       run: |
