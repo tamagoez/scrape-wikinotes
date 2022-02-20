@@ -28,7 +28,7 @@ jobs:
         ls -1 ./python
     - name: Execute Python
       run: |
-        ls -1 ./python > ./api/api_line.txt
+        ls -1 ./python > ./api/api_list.txt
         while read line
         do
           echo $(python3 "./python/$line") > "./api/${line%.*}.txt"
