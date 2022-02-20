@@ -1,3 +1,0 @@
-get_tag.py
-sitemap.py
-top_rank.py
