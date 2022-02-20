@@ -12,4 +12,4 @@ GitHub Actionsで自動的にスクレイピングされます。(1時間に1回
  - [![inspect_check.py](https://github.com/tamagoez/scrape-wikinotes/actions/workflows/inspect_check.yml/badge.svg)](https://github.com/tamagoez/scrape-wikinotes/actions/workflows/inspect_check.yml)
 
 **passing**なら良い感じです。  
-**failed**なら良くない感じ。
+**failing**なら良くない感じ。
