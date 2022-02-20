@@ -1,3 +1,4 @@
 get_tag.py
 sitemap.py
 top_rank.py
+get_tag_xml.py
