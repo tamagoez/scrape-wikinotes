@@ -30,15 +30,15 @@ jobs:
       run: |
         while read line
         do
-          python3 "./python/$line" > "./api/${line%.*}.txt"
+          python3 "./python/$line" | tee "./api/${line%.*}.txt"
         done < ./api_list.txt
     - name: Comapre and Push to API
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add -A
+        git pull
         git diff --exit-code
         echo $?
-        git pull
         git commit -m "Push result to API"
         git push
