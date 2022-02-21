@@ -24,7 +24,7 @@ jobs:
         pip install lxml
     - name: Execute Python
       run: |
-        python3 "./python/inspect_check.py" > "./api/inspect_check.txt"
+        python3 "./python/inspect_check.py" | tee "./api/inspect_check.txt"
     - name: Comapre and Push to API
       run: |
         git config --global user.name "github-actions[bot]"
