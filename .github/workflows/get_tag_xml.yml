@@ -25,7 +25,7 @@ jobs:
         pip install lxml
     - name: Execute Python
       run: |
-        python3 "./python/get_tag_xml.py" > "./api/get_tag.xml"
+        python3 "./python/get_tag_xml.py" | tee "./api/get_tag.xml"
     - name: Comapre and Push to API
       run: |
         git config --global user.name "github-actions[bot]"
