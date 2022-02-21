@@ -1,8 +1,8 @@
 # scrape-wikinotes
 Scrape of wikinotes(API)
 
-コードは`python`フォルダー。  
-スクレイピングデータは`api`フォルダー。
+コードは[`python`](python)フォルダー。  
+スクレイピングデータは[`api`](api)フォルダー。
 
 GitHub Actionsで自動的にスクレイピングされます。(1時間に1回ぐらい)
 
