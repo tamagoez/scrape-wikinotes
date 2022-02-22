@@ -61,6 +61,9 @@ no tag
 https://vividarmy-wikinotes.vercel.app/system/tags/opus
 no tag
 
+https://vividarmy-wikinotes.vercel.app/system/tags/silo
+no tag
+
 https://vividarmy-wikinotes.vercel.app/docs/doc1
 no tag
 
@@ -123,6 +126,9 @@ no tag
 
 https://vividarmy-wikinotes.vercel.app/system/event/opus
 ['event', 'opus']
+
+https://vividarmy-wikinotes.vercel.app/system/silo
+['event', 'silo']
 
 https://vividarmy-wikinotes.vercel.app/system/world/npc
 no tag
