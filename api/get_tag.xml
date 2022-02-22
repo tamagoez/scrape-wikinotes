@@ -88,6 +88,10 @@
    <tag></tag>
  </data>
  <data>
+   <url>https://vividarmy-wikinotes.vercel.app/system/tags/silo</url>
+   <tag></tag>
+ </data>
+ <data>
    <url>https://vividarmy-wikinotes.vercel.app/docs/doc1</url>
    <tag></tag>
  </data>
@@ -171,6 +175,11 @@
    <url>https://vividarmy-wikinotes.vercel.app/system/event/opus</url>
    <tag>event</tag>
    <tag>opus</tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/system/silo</url>
+   <tag>event</tag>
+   <tag>silo</tag>
  </data>
  <data>
    <url>https://vividarmy-wikinotes.vercel.app/system/world/npc</url>
