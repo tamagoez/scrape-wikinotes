@@ -38,6 +38,22 @@
    <tag></tag>
  </data>
  <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/tags</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/tags/personal</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/tags/recycle</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/tags/system</url>
+   <tag></tag>
+ </data>
+ <data>
    <url>https://vividarmy-wikinotes.vercel.app/q-and-a</url>
    <tag></tag>
  </data>
@@ -146,6 +162,12 @@
  <data>
    <url>https://vividarmy-wikinotes.vercel.app/personal/levelup</url>
    <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/recycle</url>
+   <tag>personal</tag>
+   <tag>recycle</tag>
+   <tag>system</tag>
  </data>
  <data>
    <url>https://vividarmy-wikinotes.vercel.app/server</url>
