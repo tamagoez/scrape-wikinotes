@@ -7,6 +7,10 @@ https://vividarmy-wikinotes.vercel.app/blog/tags/update
 https://vividarmy-wikinotes.vercel.app/blog/tags/wikinotes
 https://vividarmy-wikinotes.vercel.app/help/tags
 https://vividarmy-wikinotes.vercel.app/help/tags/status
+https://vividarmy-wikinotes.vercel.app/personal/tags
+https://vividarmy-wikinotes.vercel.app/personal/tags/personal
+https://vividarmy-wikinotes.vercel.app/personal/tags/recycle
+https://vividarmy-wikinotes.vercel.app/personal/tags/system
 https://vividarmy-wikinotes.vercel.app/q-and-a
 https://vividarmy-wikinotes.vercel.app/q-and-a/archive
 https://vividarmy-wikinotes.vercel.app/q-and-a/difference-vivivdarmy-topwar
@@ -34,6 +38,7 @@ https://vividarmy-wikinotes.vercel.app/help/status
 https://vividarmy-wikinotes.vercel.app/personal
 https://vividarmy-wikinotes.vercel.app/personal/building/laboratory
 https://vividarmy-wikinotes.vercel.app/personal/levelup
+https://vividarmy-wikinotes.vercel.app/personal/recycle
 https://vividarmy-wikinotes.vercel.app/server
 https://vividarmy-wikinotes.vercel.app/server/s1707
 https://vividarmy-wikinotes.vercel.app/server/s1707/JCAP
