@@ -104,6 +104,10 @@
    <tag></tag>
  </data>
  <data>
+   <url>https://vividarmy-wikinotes.vercel.app/system/tags/npc</url>
+   <tag></tag>
+ </data>
+ <data>
    <url>https://vividarmy-wikinotes.vercel.app/system/tags/opus</url>
    <tag></tag>
  </data>
@@ -112,19 +116,7 @@
    <tag></tag>
  </data>
  <data>
-   <url>https://vividarmy-wikinotes.vercel.app/docs/doc1</url>
-   <tag></tag>
- </data>
- <data>
-   <url>https://vividarmy-wikinotes.vercel.app/docs/doc2</url>
-   <tag></tag>
- </data>
- <data>
-   <url>https://vividarmy-wikinotes.vercel.app/docs/doc3</url>
-   <tag></tag>
- </data>
- <data>
-   <url>https://vividarmy-wikinotes.vercel.app/docs/mdx</url>
+   <url>https://vividarmy-wikinotes.vercel.app/docs</url>
    <tag></tag>
  </data>
  <data>
