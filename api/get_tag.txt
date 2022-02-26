@@ -73,22 +73,16 @@ no tag
 https://vividarmy-wikinotes.vercel.app/system/tags/event
 no tag
 
+https://vividarmy-wikinotes.vercel.app/system/tags/npc
+no tag
+
 https://vividarmy-wikinotes.vercel.app/system/tags/opus
 no tag
 
 https://vividarmy-wikinotes.vercel.app/system/tags/silo
 no tag
 
-https://vividarmy-wikinotes.vercel.app/docs/doc1
-no tag
-
-https://vividarmy-wikinotes.vercel.app/docs/doc2
-no tag
-
-https://vividarmy-wikinotes.vercel.app/docs/doc3
-no tag
-
-https://vividarmy-wikinotes.vercel.app/docs/mdx
+https://vividarmy-wikinotes.vercel.app/docs
 no tag
 
 https://vividarmy-wikinotes.vercel.app/help

@@ -23,12 +23,10 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/welcome
 https://vividarmy-wikinotes.vercel.app/search
 https://vividarmy-wikinotes.vercel.app/system/tags
 https://vividarmy-wikinotes.vercel.app/system/tags/event
+https://vividarmy-wikinotes.vercel.app/system/tags/npc
 https://vividarmy-wikinotes.vercel.app/system/tags/opus
 https://vividarmy-wikinotes.vercel.app/system/tags/silo
-https://vividarmy-wikinotes.vercel.app/docs/doc1
-https://vividarmy-wikinotes.vercel.app/docs/doc2
-https://vividarmy-wikinotes.vercel.app/docs/doc3
-https://vividarmy-wikinotes.vercel.app/docs/mdx
+https://vividarmy-wikinotes.vercel.app/docs
 https://vividarmy-wikinotes.vercel.app/help
 https://vividarmy-wikinotes.vercel.app/help/correspondence-to-section-includes-many-pages
 https://vividarmy-wikinotes.vercel.app/help/explore
