@@ -64,6 +64,9 @@ no tag
 https://vividarmy-wikinotes.vercel.app/q-and-a/welcome
 no tag
 
+https://vividarmy-wikinotes.vercel.app/search
+no tag
+
 https://vividarmy-wikinotes.vercel.app/system/tags
 no tag
 

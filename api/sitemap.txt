@@ -20,6 +20,7 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/tags/topwar
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/vividarmy
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/wiki
 https://vividarmy-wikinotes.vercel.app/q-and-a/welcome
+https://vividarmy-wikinotes.vercel.app/search
 https://vividarmy-wikinotes.vercel.app/system/tags
 https://vividarmy-wikinotes.vercel.app/system/tags/event
 https://vividarmy-wikinotes.vercel.app/system/tags/opus
