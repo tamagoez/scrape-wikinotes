@@ -57,15 +57,6 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/tags
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/system
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/topwar
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/vividarmy
-7
-25
-25
-25
-25
-32
-32
-32
-32
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/wiki
 https://vividarmy-wikinotes.vercel.app/q-and-a/welcome
 https://vividarmy-wikinotes.vercel.app/search
