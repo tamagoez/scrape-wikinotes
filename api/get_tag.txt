@@ -109,6 +109,21 @@ https://vividarmy-wikinotes.vercel.app/help/status
 https://vividarmy-wikinotes.vercel.app/personal
 no tag
 
+https://vividarmy-wikinotes.vercel.app/personal/note
+no tag
+
+https://vividarmy-wikinotes.vercel.app/personal/note/building/laboratory
+no tag
+
+https://vividarmy-wikinotes.vercel.app/personal/note/levelup
+no tag
+
+https://vividarmy-wikinotes.vercel.app/personal/note/recycle
+['personal', 'recycle', 'system']
+
+https://vividarmy-wikinotes.vercel.app/personal/wiki
+no tag
+
 https://vividarmy-wikinotes.vercel.app/personal/wiki/building/laboratory
 no tag
 
