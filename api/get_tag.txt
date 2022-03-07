@@ -109,13 +109,13 @@ https://vividarmy-wikinotes.vercel.app/help/status
 https://vividarmy-wikinotes.vercel.app/personal
 no tag
 
-https://vividarmy-wikinotes.vercel.app/personal/building/laboratory
+https://vividarmy-wikinotes.vercel.app/personal/wiki/building/laboratory
 no tag
 
-https://vividarmy-wikinotes.vercel.app/personal/levelup
+https://vividarmy-wikinotes.vercel.app/personal/wiki/levelup
 no tag
 
-https://vividarmy-wikinotes.vercel.app/personal/recycle
+https://vividarmy-wikinotes.vercel.app/personal/wiki/recycle
 ['personal', 'recycle', 'system']
 
 https://vividarmy-wikinotes.vercel.app/server
