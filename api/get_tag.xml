@@ -68,7 +68,20 @@
    <tag>system</tag>
  </data>
  <data>
+   <url>https://vividarmy-wikinotes.vercel.app/q-and-a/soldier-or-mechanic</url>
+   <tag>soldier</tag>
+   <tag>mechanic</tag>
+ </data>
+ <data>
    <url>https://vividarmy-wikinotes.vercel.app/q-and-a/tags</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/q-and-a/tags/mechanic</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/q-and-a/tags/soldier</url>
    <tag></tag>
  </data>
  <data>
