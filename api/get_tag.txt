@@ -109,6 +109,9 @@ https://vividarmy-wikinotes.vercel.app/help/status
 https://vividarmy-wikinotes.vercel.app/personal
 no tag
 
+https://vividarmy-wikinotes.vercel.app/personal/levelup
+no tag
+
 https://vividarmy-wikinotes.vercel.app/personal/note
 no tag
 
@@ -131,6 +134,15 @@ https://vividarmy-wikinotes.vercel.app/personal/wiki/levelup
 no tag
 
 https://vividarmy-wikinotes.vercel.app/personal/wiki/recycle
+['personal', 'recycle', 'system']
+
+https://vividarmy-wikinotes.vercel.app/personal/wikinote/building/laboratory
+no tag
+
+https://vividarmy-wikinotes.vercel.app/personal/wikinote/levelup
+no tag
+
+https://vividarmy-wikinotes.vercel.app/personal/wikinote/recycle
 ['personal', 'recycle', 'system']
 
 https://vividarmy-wikinotes.vercel.app/server

@@ -35,6 +35,7 @@ https://vividarmy-wikinotes.vercel.app/help/first-time
 https://vividarmy-wikinotes.vercel.app/help/LICENSE
 https://vividarmy-wikinotes.vercel.app/help/status
 https://vividarmy-wikinotes.vercel.app/personal
+https://vividarmy-wikinotes.vercel.app/personal/levelup
 https://vividarmy-wikinotes.vercel.app/personal/note
 https://vividarmy-wikinotes.vercel.app/personal/note/building/laboratory
 https://vividarmy-wikinotes.vercel.app/personal/note/levelup
@@ -43,6 +44,9 @@ https://vividarmy-wikinotes.vercel.app/personal/wiki
 https://vividarmy-wikinotes.vercel.app/personal/wiki/building/laboratory
 https://vividarmy-wikinotes.vercel.app/personal/wiki/levelup
 https://vividarmy-wikinotes.vercel.app/personal/wiki/recycle
+https://vividarmy-wikinotes.vercel.app/personal/wikinote/building/laboratory
+https://vividarmy-wikinotes.vercel.app/personal/wikinote/levelup
+https://vividarmy-wikinotes.vercel.app/personal/wikinote/recycle
 https://vividarmy-wikinotes.vercel.app/server
 https://vividarmy-wikinotes.vercel.app/server/s1707
 https://vividarmy-wikinotes.vercel.app/server/s1707/JCAP
