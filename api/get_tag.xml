@@ -152,6 +152,10 @@
    <tag></tag>
  </data>
  <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/levelup</url>
+   <tag></tag>
+ </data>
+ <data>
    <url>https://vividarmy-wikinotes.vercel.app/personal/note</url>
    <tag></tag>
  </data>
@@ -183,6 +187,20 @@
  </data>
  <data>
    <url>https://vividarmy-wikinotes.vercel.app/personal/wiki/recycle</url>
+   <tag>personal</tag>
+   <tag>recycle</tag>
+   <tag>system</tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/wikinote/building/laboratory</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/wikinote/levelup</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/personal/wikinote/recycle</url>
    <tag>personal</tag>
    <tag>recycle</tag>
    <tag>system</tag>
