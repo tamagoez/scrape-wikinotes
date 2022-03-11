@@ -136,6 +136,9 @@ no tag
 https://vividarmy-wikinotes.vercel.app/personal/wiki/recycle
 ['personal', 'recycle', 'system']
 
+https://vividarmy-wikinotes.vercel.app/personal/wikinote
+no tag
+
 https://vividarmy-wikinotes.vercel.app/personal/wikinote/building/laboratory
 no tag
 

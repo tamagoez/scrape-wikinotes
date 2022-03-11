@@ -44,6 +44,7 @@ https://vividarmy-wikinotes.vercel.app/personal/wiki
 https://vividarmy-wikinotes.vercel.app/personal/wiki/building/laboratory
 https://vividarmy-wikinotes.vercel.app/personal/wiki/levelup
 https://vividarmy-wikinotes.vercel.app/personal/wiki/recycle
+https://vividarmy-wikinotes.vercel.app/personal/wikinote
 https://vividarmy-wikinotes.vercel.app/personal/wikinote/building/laboratory
 https://vividarmy-wikinotes.vercel.app/personal/wikinote/levelup
 https://vividarmy-wikinotes.vercel.app/personal/wikinote/recycle
