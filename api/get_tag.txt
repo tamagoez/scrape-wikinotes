@@ -46,7 +46,16 @@ no tag
 https://vividarmy-wikinotes.vercel.app/q-and-a/difference-vivivdarmy-topwar
 ['vividarmy', 'topwar', 'system']
 
+https://vividarmy-wikinotes.vercel.app/q-and-a/soldier-or-mechanic
+['soldier', 'mechanic']
+
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags
+no tag
+
+https://vividarmy-wikinotes.vercel.app/q-and-a/tags/mechanic
+no tag
+
+https://vividarmy-wikinotes.vercel.app/q-and-a/tags/soldier
 no tag
 
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/system
