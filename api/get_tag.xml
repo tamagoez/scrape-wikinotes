@@ -5,6 +5,11 @@
    <tag></tag>
  </data>
  <data>
+   <url>https://vividarmy-wikinotes.vercel.app/blog/1000pv</url>
+   <tag>wikinotes</tag>
+   <tag>analytics</tag>
+ </data>
+ <data>
    <url>https://vividarmy-wikinotes.vercel.app/blog/archive</url>
    <tag></tag>
  </data>
@@ -19,6 +24,10 @@
  </data>
  <data>
    <url>https://vividarmy-wikinotes.vercel.app/blog/tags</url>
+   <tag></tag>
+ </data>
+ <data>
+   <url>https://vividarmy-wikinotes.vercel.app/blog/tags/analytics</url>
    <tag></tag>
  </data>
  <data>
