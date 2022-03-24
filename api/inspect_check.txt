@@ -5,11 +5,6 @@ https://vividarmy-wikinotes.vercel.app/blog
 25
 25
 https://vividarmy-wikinotes.vercel.app/blog/1000pv
-7
-25
-25
-25
-25
 https://vividarmy-wikinotes.vercel.app/blog/archive
 https://vividarmy-wikinotes.vercel.app/blog/how-to-call-wikinotes
 https://vividarmy-wikinotes.vercel.app/blog/summon
@@ -20,11 +15,6 @@ https://vividarmy-wikinotes.vercel.app/blog/tags
 25
 25
 https://vividarmy-wikinotes.vercel.app/blog/tags/analytics
-7
-25
-25
-25
-25
 https://vividarmy-wikinotes.vercel.app/blog/tags/update
 7
 25
