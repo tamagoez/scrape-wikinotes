@@ -34,6 +34,12 @@ https://vividarmy-wikinotes.vercel.app/blog/1000pv
 32
 32
 32
+33
+33
+33
+33
+33
+33
 https://vividarmy-wikinotes.vercel.app/blog/archive
 https://vividarmy-wikinotes.vercel.app/blog/how-to-call-wikinotes
 https://vividarmy-wikinotes.vercel.app/blog/summon
@@ -192,11 +198,6 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/tags/mechanic
 25
 25
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/soldier
-7
-25
-25
-25
-25
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/system
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/topwar
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/vividarmy
