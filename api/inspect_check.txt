@@ -81,10 +81,6 @@ https://vividarmy-wikinotes.vercel.app/q-and-a
 33
 33
 33
-40
-40
-40
-40
 https://vividarmy-wikinotes.vercel.app/q-and-a/archive
 https://vividarmy-wikinotes.vercel.app/q-and-a/difference-vivivdarmy-topwar
 https://vividarmy-wikinotes.vercel.app/q-and-a/soldier-or-mechanic
@@ -106,11 +102,6 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/tags/mechanic
 25
 25
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/soldier
-7
-25
-25
-25
-25
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/system
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/topwar
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/vividarmy
