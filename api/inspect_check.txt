@@ -119,6 +119,11 @@ https://vividarmy-wikinotes.vercel.app/blog/tags/wikinotes
 30
 https://vividarmy-wikinotes.vercel.app/help/tags
 https://vividarmy-wikinotes.vercel.app/help/tags/status
+7
+25
+25
+25
+25
 https://vividarmy-wikinotes.vercel.app/personal/tags
 https://vividarmy-wikinotes.vercel.app/personal/tags/personal
 https://vividarmy-wikinotes.vercel.app/personal/tags/recycle
@@ -186,6 +191,12 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/tags
 32
 32
 32
+33
+33
+33
+33
+33
+33
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/mechanic
 7
 25
