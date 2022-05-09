@@ -4,10 +4,6 @@ https://vividarmy-wikinotes.vercel.app/blog
 25
 25
 25
-32
-32
-32
-32
 https://vividarmy-wikinotes.vercel.app/blog/1000pv
 7
 25
@@ -161,10 +157,10 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/archive
 26
 https://vividarmy-wikinotes.vercel.app/q-and-a/difference-vivivdarmy-topwar
 7
-38
-38
-38
-38
+25
+25
+25
+25
 https://vividarmy-wikinotes.vercel.app/q-and-a/soldier-or-mechanic
 7
 25
