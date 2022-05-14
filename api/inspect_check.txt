@@ -4,6 +4,10 @@ https://vividarmy-wikinotes.vercel.app/blog
 25
 25
 25
+32
+32
+32
+32
 https://vividarmy-wikinotes.vercel.app/blog/1000pv
 7
 25
@@ -21,12 +25,6 @@ https://vividarmy-wikinotes.vercel.app/blog/how-to-call-wikinotes
 25
 25
 25
-26
-26
-26
-26
-26
-26
 https://vividarmy-wikinotes.vercel.app/blog/summon
 7
 25
@@ -243,12 +241,6 @@ https://vividarmy-wikinotes.vercel.app/q-and-a/tags
 32
 32
 32
-33
-33
-33
-33
-33
-33
 https://vividarmy-wikinotes.vercel.app/q-and-a/tags/mechanic
 7
 25
