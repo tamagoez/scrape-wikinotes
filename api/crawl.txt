@@ -3,7 +3,6 @@ VividArmy WikiNotes: トップ
 Index | VividArmy WikiNotes
 LICENSE | VividArmy WikiNotes
 探検 | VividArmy WikiNotes
-リサイクルセンター | VividArmy WikiNotes
 ヘルプ | VividArmy WikiNotes
 システム トップ | VividArmy WikiNotes
 トップ | VividArmy WikiNotes
@@ -11,6 +10,7 @@ LICENSE | VividArmy WikiNotes
 イベント トップ | VividArmy WikiNotes
 Tags | VividArmy WikiNotes
 Q&A | VividArmy WikiNotes
-3 docs tagged with "recycle" | VividArmy WikiNotes
+ページ数が多いセクション | VividArmy WikiNotes
+3 docs tagged with "system" | VividArmy WikiNotes
 科学研究所 | VividArmy WikiNotes
 One post tagged with "vividarmy"
